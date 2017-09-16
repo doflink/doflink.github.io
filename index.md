@@ -1,4 +1,4 @@
- ---
+---
 layout: default
 ---
 
@@ -35,7 +35,7 @@ Prior to joining TU Dresden, I received my master degree in computer science fro
 
 ## Selected Publications
 
-- **StreamApprox: Approximate Computing for Stream Analytics**, _Do Le Quoc_, Ruichuan Chen, Pramod Bhatotia, Christof Fetzer, Volker Hilt, and Thorsten Strufe, in 17th International Middleware Conference (<em><a class="tosu">Middleware</a>), Las Vegas, Nevada, USA, 2017. <small><a>(This work also has been presented at Flink Forward'17 and Spark Summit Europe'17)</a></small>. 
+- **StreamApprox: Approximate Computing for Stream Analytics**, _Do Le Quoc_, Ruichuan Chen, Pramod Bhatotia, Christof Fetzer, Volker Hilt, and Thorsten Strufe, in 17th International Middleware Conference (<em><a class="tosu">Middleware</a>), Las Vegas, Nevada, USA, 2017. <small><a>(This work also has been presented at Flink Forward'17 and Spark Summit Europe'17)</a></small>.
 
 - **PrivApprox: Privacy-Preserving Stream Analytics**, _Do Le Quoc_, Martin Beck,  Pramod Bhatotia,  Ruichuan Chen, Christof Fetzer, and Thorsten Strufe, in the USENIX Annual Technical Conference (<em><a class="tosu">USENIX ATC</a>), Santa Clara, CA, USA, 2017.
 
