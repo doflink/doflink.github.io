@@ -32,6 +32,13 @@ _Traffic Dispersion Graph Based Anomaly Detection_
 <hr style="height:10pt; visibility:hidden;" />
 ## Master Thesis Supervision
 
-- **Valerio D' Alessandro** _Distributed Support Vector Machine Classification: A Scalable Approach_, 2015.
+- **Valerio D' Alessandro** --- _Distributed Support Vector Machine Classification: A Scalable Approach_, 2015.
 
-- **Alexander Lehmann** _Distributed Testing System for Modern Cars_, 2017.
+- **Alexander Lehmann** --- _Distributed Testing System for Modern Cars_, 2017.
+
+-----
+<hr style="height:10pt; visibility:hidden;" />
+## Demo
+- Auto-scaling in OpenStack based clouds --- <a href="https://tinyurl.com/posr2eh"><img class="t0" width="2%" src="/images/youtube-icon.png" alt="youtube"></a>  
+- Cost-based scheduling and data placement for multi-clouds --- <a href="https://www.youtube.com/watch?v=jY2kPvcq8II"><img class="t0" width="2%" src="/images/youtube-icon.png" alt="youtube"></a>
+- Robot labs for undergraduate students at TU Dresden --- <a href="https://tinyurl.com/y7cglrhb"><img class="t0" width="2%" src="/images/youtube-icon.png" alt="youtube"></a>
