@@ -18,7 +18,7 @@ permalink: /publications/
 - **UniCrawl: A Practical Geographically Distributed Web Crawlers**, _Do Le Quoc_, Christof Fetzer, Pascal Felber,
     Étienne Rivière, Valerio Schiavoni, Pierre Sutra, in the 8th IEEE International Conference on Cloud Computing (CLOUD), New York, USA, 2015.
 
-- {label: "VLDB 2017"}**Optimizing Query Prices for Data-as-a-Service**, Ana Cristina Oliveira, Christof Fetzer, Andre Martin, _Do Le Quoc_, Marco Spohn, in the IEEE International Congress on Big Data (BigData Congress), New York, USA, 2015.
+- **Optimizing Query Prices for Data-as-a-Service**, Ana Cristina Oliveira, Christof Fetzer, Andre Martin, _Do Le Quoc_, Marco Spohn, in the IEEE International Congress on Big Data (BigData Congress), New York, USA, 2015.
 
 - **DoLen: User-side multi-cloud application monitoring**, _Do Le Quoc_, Lenar Yazdanov, Christof Fetzer, in the IEEE 2nd Future Internet of Things and Cloud (FICLOUD), IEEE Computer Society, Barcelona, Spain, 2014.
 
