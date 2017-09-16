@@ -3,7 +3,7 @@ layout: page
 title: Services
 permalink: /services/
 ---
------
+<!-- -----
 <hr style="height:10pt; visibility:hidden;" />
 ## Talks
 
@@ -26,7 +26,7 @@ _DoLen: User-side multi-cloud application monitoring_
 _Scalable and Real-Time Deep Packet Inspection_
 
 - **ACM SoICT'11, Hanoi, Vietnam, Oct 2011** <br>
-_Traffic Dispersion Graph Based Anomaly Detection_
+_Traffic Dispersion Graph Based Anomaly Detection_ -->
 
 -----
 <hr style="height:10pt; visibility:hidden;" />
