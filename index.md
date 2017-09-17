@@ -41,8 +41,7 @@ Prior to joining TU Dresden, I received my master degree in computer science fro
 
 - **IncApprox: A Data Analytics System for Incremental Approximate Computing**, Dhanya R Krishnan, _Do Le Quoc_, Pramod Bhatotia, Christof Fetzer, and Rodrigo Rodrigue, in the 25rd International World Wide Web Conference (<em><a class="tosu">WWW</a>), Montreal, Canada, 2016.
 
-- **UniCrawl: A Practical Geographically Distributed Web Crawlers**, _Do Le Quoc_, Christof Fetzer, Pascal Felber,
-    Étienne Rivière, Valerio Schiavoni, Pierre Sutra, in the 8th IEEE International Conference on Cloud Computing (<em><a class="tosu">CLOUD</a>), New York, USA, 2015.
+- **UniCrawl: A Practical Geographically Distributed Web Crawlers**, _Do Le Quoc_, Christof Fetzer, Pascal Felber, Étienne Rivière, Valerio Schiavoni, Pierre Sutra, in the 8th IEEE International Conference on Cloud Computing (<em><a class="tosu">CLOUD</a>), New York, USA, 2015. <small><a>(The source code of this work has been contributed to Apache Nutch)</a></small>.
 
 
 
