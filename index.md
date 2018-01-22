@@ -23,8 +23,9 @@ TU Dresden, Germany <br>
 
 <p align="justify">
 <a class="tosu">I have successfully defended my PhD thesis!!!</a>
+<br>
 I'm a Ph.D. student at the Systems Engineering Group of TU Dresden co-supervised by <a href="https://tu-dresden.de/ing/informatik/sya/se/die-professur/inhaber-in" target="_blank"> Prof. Dr. Christof Fetzer</a> and <a href="http://homepages.inf.ed.ac.uk/pbhatoti" target="_blank"> Prof. Dr. Pramod Bhatotia</a>. My research interests include big data analytics, approximate computing, and distributed systems. During my Ph.D., I’ve been lucky to have fruitful internship/collaboration with <a href="https://www.bell-labs.com/">Bell Labs</a>.
-
+<br>
 Prior to joining TU Dresden, I received my master degree in computer science from Pohang University of Science and Technology (POSTECH), Korea in 2012 under the supervision of <a href="http://dpnm.postech.ac.kr/~jwkhong/" target="_blank">Prof. Dr. James Won-Ki Hong</a>. I also worked at R&D center of DASAN Networks company, Seoul, Korea after receiving the master degree.</p>
 
 <!-- ## Research Interests
