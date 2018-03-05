@@ -6,6 +6,12 @@ permalink: /talks/
 -----
 <hr style="height:10pt; visibility:hidden;" />
 
+- **POSTECH, Pohang, Gyeongsangbuk-do, South Korea, Mar 2018** <br>
+_Approximate Computing for Stream Analytics_
+
+- **KAIST, Daejeon, South Korea, Mar 2018** <br>
+_StreamApprox: Approximate Computing for Stream Analytics_
+
 - **USENIX Middleware'17, Las Vegas, Nevada, USA, Dec 2017** <br>
 _StreamApprox: Approximate Computing for Stream Analytics_
 
