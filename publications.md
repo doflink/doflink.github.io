@@ -7,6 +7,10 @@ permalink: /publications/
 -----
 <hr style="height:10pt; visibility:hidden;" />
 
+- **ApproxJoin: Approximate Distributed Joins**, _Do Le Quoc_, Istemi Ekin Akkus, Pramod Bhatotia, Spyros Blanas, Ruichuan Chen, Christof Fetzer, and Thorsten Strufe, in the ACM Symposium on Cloud Computing (SoCC), 2018.
+
+- **ApproxIoT: Approximate Analytics for Edge Computing**, Zhenyu Wen, _Do Le Quoc_, Pramod Bhatotia, Ruichuan Chen, Myungjin Lee, in the 38th IEEE International Conference on Distributed Computing Systems (ICDCS), Vienna, Austria, 2018.
+
 - **StreamApprox: Approximate Computing for Stream Analytics**, _Do Le Quoc_, Ruichuan Chen, Pramod Bhatotia, Christof Fetzer, Volker Hilt, and Thorsten Strufe, in the 17th International Middleware Conference (Middleware), Las Vegas, Nevada, USA, 2017.
 
 - **PrivApprox: Privacy-Preserving Stream Analytics**, _Do Le Quoc_, Martin Beck,  Pramod Bhatotia,  Ruichuan Chen, Christof Fetzer, and Thorsten Strufe, in the USENIX Annual Technical Conference (USENIX ATC), Santa Clara, CA, USA, 2017.

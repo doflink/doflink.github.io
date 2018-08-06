@@ -32,9 +32,12 @@ _Traffic Dispersion Graph Based Anomaly Detection_ -->
 <hr style="height:10pt; visibility:hidden;" />
 ## Master Thesis Supervision
 
-- **Valerio D' Alessandro** --- _Distributed Support Vector Machine Classification: A Scalable Approach_, 2015.
+- **Kunkel, Roland Maria** --- _SCONE-Tensorow: secure and privacy-preserving machine learning framework_, 2018.
 
 - **Alexander Lehmann** --- _Distributed Testing System for Modern Cars_, 2017.
+
+- **Valerio D' Alessandro** --- _Distributed Support Vector Machine Classification: A Scalable Approach_, 2015.
+
 
 -----
 <hr style="height:10pt; visibility:hidden;" />
