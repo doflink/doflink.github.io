@@ -32,7 +32,9 @@ _Traffic Dispersion Graph Based Anomaly Detection_ -->
 <hr style="height:10pt; visibility:hidden;" />
 ## Master Thesis Supervision
 
-- **Kunkel, Roland Maria** --- _SCONE-Tensorow: secure and privacy-preserving machine learning framework_, 2018.
+- **Stean, Riccardo** ---_PoC: a high-throughput blockchain consensus protocol based on Intel SGX_,2018.
+
+- **Kunkel, Roland Maria** --- _SCONE-Tensorflow: secure and privacy-preserving machine learning framework_, 2018.
 
 - **Alexander Lehmann** --- _Distributed Testing System for Modern Cars_, 2017.
 
