@@ -32,7 +32,7 @@ _Traffic Dispersion Graph Based Anomaly Detection_ -->
 <hr style="height:10pt; visibility:hidden;" />
 ## Master Thesis Supervision
 
-- **Stean, Riccardo** ---_PoC: a high-throughput blockchain consensus protocol based on Intel SGX_,2018.
+- **Steffan, Riccardo** --- _PoC: a high-throughput blockchain consensus protocol based on Intel SGX_, 2018.
 
 - **Kunkel, Roland Maria** --- _SCONE-Tensorflow: secure and privacy-preserving machine learning framework_, 2018.
 
