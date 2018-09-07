@@ -37,7 +37,7 @@ Prior to joining TU Dresden, I received my master degree in computer science fro
 
 ## Selected Publications
 
-- **ApproxJoin: Approximate Distributed Joins**, _Do Le Quoc_, Istemi Ekin Akkus, Pramod Bhatotia, Spyros Blanas, Ruichuan Chen, Christof Fetzer, and Thorsten Strufe, in the ACM Symposium on Cloud Computing (<em><a class="tosu">SoCC</a>), 2018.
+- **ApproxJoin: Approximate Distributed Joins**, _Do Le Quoc_, Istemi Ekin Akkus, Pramod Bhatotia, Spyros Blanas, Ruichuan Chen, Christof Fetzer, and Thorsten Strufe, in the ACM Symposium on Cloud Computing (<em><a class="tosu">SoCC</a>), Carlsbad, CA, USA, 2018.
 
 - **StreamApprox: Approximate Computing for Stream Analytics**, _Do Le Quoc_, Ruichuan Chen, Pramod Bhatotia, Christof Fetzer, Volker Hilt, and Thorsten Strufe, in 17th International Middleware Conference (<em><a class="tosu">Middleware</a>), Las Vegas, Nevada, USA, 2017. <small><a>(This work also has been presented at Flink Forward'17 and Spark Summit Europe'17)</a></small>.
 
