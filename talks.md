@@ -6,6 +6,9 @@ permalink: /talks/
 -----
 <hr style="height:10pt; visibility:hidden;" />
 
+- **Intel Labs, Hillsboro, Oregon, USA, Oct 2018** <br>
+_Secure Privacy-preserving Data Processing in Untrusted Clouds: SCONE Platform and SGX-PySpark_ 
+
 - **POSTECH, Pohang, Gyeongsangbuk-do, South Korea, Mar 2018** <br>
 _Approximate Computing for Stream Analytics_
 
