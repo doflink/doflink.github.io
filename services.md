@@ -31,14 +31,14 @@ _Traffic Dispersion Graph Based Anomaly Detection_ -->
 -----
 <hr style="height:10pt; visibility:hidden;" />
 ## Conference reviewing
-- **IEEE International Conference on Distributed Computing Systems (ICDCS)** 
-- **International European Conference on Parallel and Distributed Computing (Euro-Par)**
-- **ACM/IFIP International Middleware Conference (Middleware)**
+- IEEE International Conference on Distributed Computing Systems (**ICDCS**) 
+- International European Conference on Parallel and Distributed Computing (**Euro-Par**)
+- ACM/IFIP International Middleware Conference (**Middleware**)
 
 <hr style="height:10pt; visibility:hidden;" />
 ## Journal reviewing
-- **IEEE Transactions on Big Data**
-- **Data Mining and Knowledge Discovery (DAMI)**
+- IEEE Transactions on Big Data
+- Data Mining and Knowledge Discovery (DAMI)
 
 <hr style="height:10pt; visibility:hidden;" />
 ## Master Thesis Supervision
