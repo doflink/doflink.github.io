@@ -3,12 +3,13 @@ layout: default
 ---
 
 # Le Quoc Do <a href="/images/me.jpg" target="_blank"> <img src="images/me.jpg" alt="Le Quoc Do" style="width:160px;" align="right"></a>
-Ph.D. Student, Computer Science <br>
+Postdoc researcher, Systems Engineering,  Computer Science <br>
 TU Dresden, Germany <br>
+Co-founder <a href="https://sconedocs.github.io/" target="_blank">Scontain</a> <br>
 
 <!-- <em>Curriculum Vitae: </em><a href="/files/CV_new.pdf" target="_blank">PDF</a>  <small>(September, 2017)</small> <br> -->
 <em>Git repository: </em><a href="https://github.com/doflink"> <img class="t0" width="2%" src="/images/github-icon.png" alt="github"></a><br>
-<em>Email: </em><a href="mailto:do.le_quoc@tu-dresden.de">do.le_quoc@tu-dresden.de</a> <br>
+<em>Email: </em><a href="mailto:do@scontain.com">do@scontain.com</a> <br>
 <em>Office: </em>Systems Engineering Chair, APB 3074<br>
 
 <!-- <hr width="600px"> -->
@@ -22,20 +23,20 @@ TU Dresden, Germany <br>
 <!-- <p align="justify" style="max-width:600px"> -->
 
 <p align="justify">
-<a class="tosu">I have successfully defended my PhD thesis!!!</a>
-<br>
-I'm a Ph.D. student at the Systems Engineering Group of TU Dresden co-supervised by <a href="https://tu-dresden.de/ing/informatik/sya/se/die-professur/inhaber-in" target="_blank"> Prof. Dr. Christof Fetzer</a> and <a href="http://homepages.inf.ed.ac.uk/pbhatoti" target="_blank"> Prof. Dr. Pramod Bhatotia</a>. My research interests include big data analytics, approximate computing, and distributed systems. During my Ph.D., I’ve been lucky to have fruitful internship/collaboration with <a href="https://www.bell-labs.com/">Bell Labs</a>.
-<br>
-Prior to joining TU Dresden, I received my master degree in computer science from Pohang University of Science and Technology (POSTECH), Korea in 2012 under the supervision of <a href="http://dpnm.postech.ac.kr/~jwkhong/" target="_blank">Prof. Dr. James Won-Ki Hong</a>. I also worked at R&D center of DASAN Networks company, Seoul, Korea after receiving the master degree.</p>
+<!-- a class="tosu">I have successfully defended my PhD thesis!!!</a> -->
 
-<!-- ## Research Interests
-<p>
-</p> -->
+I'm a Postdoc researcher at Systems Engineering group of TU Dresden. I obtained a PhD (Dr. -Ing.) from TU Dresden under supervision of <a href="https://tu-dresden.de/ing/informatik/sya/se/die-professur/inhaber-in" target="_blank"> Prof. Dr. Christof Fetzer</a> and <a href="http://homepages.inf.ed.ac.uk/pbhatoti" target="_blank"> Prof. Dr. Pramod Bhatotia</a>. Since April 2018, I have joined  <a href="http://scontain.com" target="_blank">Scontain</a> startup as a Co-founder.
+Currently, I'm passionate about building secure and privacy-preserving data analytics systems based on open-source frameworks (e.g., Apache Spark, Tensorflow, OpenCV) and Trusted Execution Environment (TEE) technologies (e.g., Intel SGX and ARM TrustZone).
+<br>
+During my Ph.D., I’ve been lucky to have fruitful internship/collaboration with <a href="https://www.bell-labs.com/">Bell Labs</a>. Prior to joining TU Dresden, I received my master degree in computer science from Pohang University of Science and Technology (POSTECH), Korea in 2012 under the supervision of <a href="http://dpnm.postech.ac.kr/~jwkhong/" target="_blank">Prof. Dr. James Won-Ki Hong</a>.</p>
+<br>
 
------
 <hr style="height:10pt; visibility:hidden;" />
+------
 
 ## Selected Publications
+
+- **SGX-PySpark: Secure Distributed Data Analytics**, _Do Le Quoc_, Franz Gregor, Jatinder Singh, and Christof Fetzer, in the International World Wide Web Conference (<em><a class="tosu">WWW</a>), San Francisco, CA, USA, 2019.
 
 - **ApproxJoin: Approximate Distributed Joins**, _Do Le Quoc_, Istemi Ekin Akkus, Pramod Bhatotia, Spyros Blanas, Ruichuan Chen, Christof Fetzer, and Thorsten Strufe, in the ACM Symposium on Cloud Computing (<em><a class="tosu">SoCC</a>), Carlsbad, CA, USA, 2018.
 
