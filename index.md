@@ -29,7 +29,6 @@ I'm a Postdoc researcher at Systems Engineering group of TU Dresden. I obtained 
 Currently, I'm passionate about building secure and privacy-preserving data analytics systems based on open-source frameworks (e.g., Apache Spark, Tensorflow, OpenCV) and Trusted Execution Environment (TEE) technologies (e.g., Intel SGX and ARM TrustZone).
 <br>
 During my Ph.D., I’ve been lucky to have fruitful internship/collaboration with <a href="https://www.bell-labs.com/">Bell Labs</a>. Prior to joining TU Dresden, I received my master degree in computer science from Pohang University of Science and Technology (POSTECH), Korea in 2012 under the supervision of <a href="http://dpnm.postech.ac.kr/~jwkhong/" target="_blank">Prof. Dr. James Won-Ki Hong</a>.</p>
-<br>
 
 <hr style="height:10pt; visibility:hidden;" />
 ------
