@@ -43,6 +43,16 @@ _Traffic Dispersion Graph Based Anomaly Detection_ -->
 <hr style="height:8pt; visibility:hidden;" />
 ## Master Thesis Supervision
 
+- **Hira Siddiqui** --- _Credentials as a Service_, 2020 (Online).
+
+- **Mujtaba Idrees** --- _Trusted Computation based Ecosystem for Blockchain and Beyond_, 2020 (Online).
+
+- **Prateek Bhatnagar** --- _SPML: A Secure Privacy-preserving Machine Learning Framework using TEEs and Differential Privacy_, 2020 (Online).
+
+- **Dominik Lauck** --- _Technical Privacy and Security Enforcement in Blockchain-based Systems Leveraging Trusted Execution Environments_, 2019.
+
+- **Donald Dragoti** --- _Monitoring of Applications in Trusted Execution Environments_, 2019.
+
 - **Steffan, Riccardo** --- _PoC: a high-throughput blockchain consensus protocol based on Intel SGX_, 2018.
 
 - **Kunkel, Roland Maria** --- _SCONE-Tensorflow: secure and privacy-preserving machine learning framework_, 2018.
@@ -51,10 +61,17 @@ _Traffic Dispersion Graph Based Anomaly Detection_ -->
 
 - **Valerio D' Alessandro** --- _Distributed Support Vector Machine Classification: A Scalable Approach_, 2015.
 
+<hr style="height:8pt; visibility:hidden;" />
+## Bachelor Thesis Supervision
+- **Mulham Raee** --- _A Secure Mobile Application to decide Policy Changes_, 2019.
 
 -----
 <hr style="height:8pt; visibility:hidden;" />
 ## Demo
+- SGX-PySpark --- <a href="https://www.youtube.com/watch?v=yI3iEFWUWbU"><img class="t0" width="2%" src="/images/youtube-icon.png" alt="youtube"></a>
+- Run OpenVino with Intel SGX using SCONE --- <a href="https://www.youtube.com/watch?v=g4Cid-4ItJY"><img class="t0" width="2%" src="/images/youtube-icon.png" alt="youtube"></a>
+- TEEMon - a real-time performance monitoring framework for Intel SGX based applications --- <a href="https://www.youtube.com/watch?v=_oVp15RCL7U"><img class="t0" width="2%" src="/images/youtube-icon.png" alt="youtube"></a>
+- SCONE Tensorflow-Lite --- <a href="https://www.youtube.com/watch?v=mKgwUMIT8tM"><img class="t0" width="2%" src="/images/youtube-icon.png" alt="youtube"></a>
 - Auto-scaling in OpenStack based clouds --- <a href="https://tinyurl.com/posr2eh"><img class="t0" width="2%" src="/images/youtube-icon.png" alt="youtube"></a>  
 - Cost-based scheduling and data placement for multi-clouds --- <a href="https://www.youtube.com/watch?v=jY2kPvcq8II"><img class="t0" width="2%" src="/images/youtube-icon.png" alt="youtube"></a>
 - Robot labs for undergraduate students at TU Dresden --- <a href="https://tinyurl.com/y7cglrhb"><img class="t0" width="2%" src="/images/youtube-icon.png" alt="youtube"></a>

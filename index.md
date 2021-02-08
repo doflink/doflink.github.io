@@ -25,21 +25,35 @@ Co-founder <a href="https://sconedocs.github.io/" target="_blank">Scontain</a> <
 <p align="justify">
 <!-- a class="tosu">I have successfully defended my PhD thesis!!!</a> -->
 
-I'm a Postdoc researcher at Systems Engineering group of TU Dresden. I obtained a PhD (Dr. -Ing.) from TU Dresden under supervision of <a href="https://tu-dresden.de/ing/informatik/sya/se/die-professur/inhaber-in" target="_blank"> Prof. Dr. Christof Fetzer</a> and <a href="http://homepages.inf.ed.ac.uk/pbhatoti" target="_blank"> Prof. Dr. Pramod Bhatotia</a>. Since April 2018, I have joined  <a href="http://scontain.com" target="_blank">Scontain</a> startup as a Co-founder.
-Currently, I'm passionate about building secure and privacy-preserving data analytics systems based on open-source frameworks (e.g., Apache Spark, Tensorflow, OpenCV) and Trusted Execution Environment (TEE) technologies (e.g., Intel SGX and ARM TrustZone).
+I'm a co-founder of Scontain UG and a Postdoc researcher at Systems Engineering group of TU Dresden. I obtained a PhD (Dr. -Ing.) from TU Dresden under supervision of <a href="https://tu-dresden.de/ing/informatik/sya/se/die-professur/inhaber-in" target="_blank"> Prof. Dr. Christof Fetzer</a> and <a href="http://homepages.inf.ed.ac.uk/pbhatoti" target="_blank"> Prof. Dr. Pramod Bhatotia</a> in Jan 2018. Since April 2018, I have joined  <a href="http://scontain.com" target="_blank">Scontain</a> startup as a co-founder.
+Currently, I'm passionate about building secure and privacy-preserving data analytics systems based on open-source frameworks (e.g., Apache Spark, Tensorflow, OpenCV, PyTorch, and MXNet) and Trusted Execution Environment (TEE) technologies (e.g., Intel SGX/TDX, AMD SEV, and ARM TrustZone).
 <br>
 During my Ph.D., I’ve been lucky to have fruitful internship/collaboration with <a href="https://www.bell-labs.com/">Bell Labs</a>. Prior to joining TU Dresden, I received my master degree in computer science from Pohang University of Science and Technology (POSTECH), Korea in 2012 under the supervision of <a href="http://dpnm.postech.ac.kr/~jwkhong/" target="_blank">Prof. Dr. James Won-Ki Hong</a>.</p>
 
 <hr style="height:10pt; visibility:hidden;" />
 ------
+<em>All publications: </em><a href="https://scholar.google.de/citations?hl=en&user=z1VDRsUAAAAJ"> <img class="t0" width="2%" src="/images/gscholar-icon.png" alt="Google Scholar"></a><br>
 
 ## Selected Publications
+
+- **Enclaves in the Clouds: Legal considerations and broader implications**, Jatinder Singh, Jennifer Cobbe, _Do Le Quoc_, Zahra Tarkhani, in <em><a class="tosu">ACM Queue</a> journal, 2021.
+
+- **secureTF: A Secure TensorFlow Framework**, _Do Le Quoc_, Franz Gregor, Sergei Arnautov,
+Roland Kunkel, Pramod Bhatotia, Christof Fetzer, in proceedings of the 21st International Middleware Conference (<em><a class="tosu">Middleware</a>), Delft, Netherlands, 2020.
+
+- **TEEMon: A continuous performance monitoring framework for TEEs**, Robert Krahn, Donald Dragoti, Franz Gregor, _Do Le Quoc_, Valerio Schiavoni, Pascal Felber, Clenimar Souza, Andrey Brito, Christof Fetzer, in proceedings of the 21st International Middleware Conference (<em><a class="tosu">Middleware</a>), Delft, Netherlands, 2020.
+
+- **A practical approach for updating an integrity-enforced operating system**, Wojciech Ozga, _Do Le Quoc_, Christof Fetzer,in proceedings of the 21st International Middleware Conference (<em><a class="tosu">Middleware</a>), Delft, Netherlands, 2020.
+
+- **Palaemon: A Managed Trusted Service for Secrets and Configuration Management**, Franz Gregor, Wojciech Ozga, Sébastien Vaucher, Rafael Pires, _Do Le Quoc_, Sergei Arnautov, André Martin, Valerio Schiavoni, Pascal Felber, and Christof Fetzer, inn proceedings of the Annual EEE/IFIP International Conference on Dependable Systems and Networks (<em><a class="tosu">DSN</a>), Valencia, Spain,
+2020.
 
 - **SGX-PySpark: Secure Distributed Data Analytics**, _Do Le Quoc_, Franz Gregor, Jatinder Singh, and Christof Fetzer, in the International World Wide Web Conference (<em><a class="tosu">WWW</a>), San Francisco, CA, USA, 2019.
 
 - **ApproxJoin: Approximate Distributed Joins**, _Do Le Quoc_, Istemi Ekin Akkus, Pramod Bhatotia, Spyros Blanas, Ruichuan Chen, Christof Fetzer, and Thorsten Strufe, in the ACM Symposium on Cloud Computing (<em><a class="tosu">SoCC</a>), Carlsbad, CA, USA, 2018.
 
-- **StreamApprox: Approximate Computing for Stream Analytics**, _Do Le Quoc_, Ruichuan Chen, Pramod Bhatotia, Christof Fetzer, Volker Hilt, and Thorsten Strufe, in 17th International Middleware Conference (<em><a class="tosu">Middleware</a>), Las Vegas, Nevada, USA, 2017. <small><a>(This work also has been presented at Flink Forward'17 and Spark Summit Europe'17)</a></small>.
+- **StreamApprox: Approximate Computing for Stream Analytics**, _Do Le Quoc_, Ruichuan Chen, Pramod Bhatotia, Christof Fetzer, Volker Hilt, and Thorsten Strufe, in 17th International Middleware Conference (<em><a class="tosu">Middleware</a>), Las Vegas, Nevada, USA, 2017. <small><a>(This work also has been presented at Flink Forward'17 and Spark Summit Europe'17)
+</a></small><a href="https://www.youtube.com/watch?v=86hgL1bqW6g&ab_channel=Databricks"><img class="t0" width="2%" src="/images/youtube-icon.png" alt="youtube"></a>.
 
 - **PrivApprox: Privacy-Preserving Stream Analytics**, _Do Le Quoc_, Martin Beck,  Pramod Bhatotia,  Ruichuan Chen, Christof Fetzer, and Thorsten Strufe, in the USENIX Annual Technical Conference (<em><a class="tosu">USENIX ATC</a>), Santa Clara, CA, USA, 2017.
 

@@ -6,6 +6,24 @@ permalink: /talks/
 -----
 <hr style="height:10pt; visibility:hidden;" />
 
+- **ACM Middleware'20, Delft, Netherlands, (Virtual conference), Dec 2020** <br> 
+_secureTF: A Secure TensorFlow Framework_
+
+- **AI Innovation Days 2020, Fraunhofer, Dresden, Germany, (Virtual event), Sept 2020** <br>
+_Secure Multi-Stakeholder Machine Learning_
+
+- **SGX-day, Intel Labs, Hillsboro, Oregon, USA, July 2019** <br>
+_SCONE: Secure Container Technology and Secrets Management_
+
+- **ACM WWW'19, The Web Conference, San Francisco, USA, May 2019** <br>
+_SGX-PySpark: Secure Distributed Data Analytics (Demo)_
+ 
+- **Invited talk, T-Systems MMS, Dresden, Germany, May 2019** <br>
+_SCONE: Secure Container Technology and Secrets Management_
+
+- **Invited lecture, Japanese OS workshop, Hakodate Hokkaido, Japan, March 2019** <br>
+_SCONE: Secure Container Technology and Secrets Management_
+
 - **Intel Labs, Hillsboro, Oregon, USA, Oct 2018** <br>
 _Secure Privacy-preserving Data Processing in Untrusted Clouds: SCONE Platform and SGX-PySpark_ 
 
