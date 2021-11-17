@@ -3,14 +3,15 @@ layout: default
 ---
 
 # Le Quoc Do <a href="/images/me.jpg" target="_blank"> <img src="images/me.jpg" alt="Le Quoc Do" style="width:160px;" align="right"></a>
-Postdoc researcher, Systems Engineering,  Computer Science <br>
-TU Dresden, Germany <br>
-Co-founder <a href="https://sconedocs.github.io/" target="_blank">Scontain</a> <br>
+Senior research engineer at Huawei Munich Research Center <br>
+Co-founder of <a href="https://scontain.com/" target="_blank">Scontain</a> UG <br>
+Munich, Germany <br>
+
 
 <!-- <em>Curriculum Vitae: </em><a href="/files/CV_new.pdf" target="_blank">PDF</a>  <small>(September, 2017)</small> <br> -->
 <em>Git repository: </em><a href="https://github.com/doflink"> <img class="t0" width="2%" src="/images/github-icon.png" alt="github"></a><br>
 <em>Email: </em><a href="mailto:do@scontain.com">do@scontain.com</a> <br>
-<em>Office: </em>Systems Engineering Chair, APB 3074<br>
+<!-- <em>Office: </em>Systems Engineering Chair, APB 3074<br> -->
 
 <!-- <hr width="600px"> -->
 -----
@@ -25,7 +26,8 @@ Co-founder <a href="https://sconedocs.github.io/" target="_blank">Scontain</a> <
 <p align="justify">
 <!-- a class="tosu">I have successfully defended my PhD thesis!!!</a> -->
 
-I'm a co-founder of Scontain UG and a Postdoc researcher at Systems Engineering group of TU Dresden. I obtained a PhD (Dr. -Ing.) from TU Dresden under supervision of <a href="https://tu-dresden.de/ing/informatik/sya/se/die-professur/inhaber-in" target="_blank"> Prof. Dr. Christof Fetzer</a> and <a href="http://homepages.inf.ed.ac.uk/pbhatoti" target="_blank"> Prof. Dr. Pramod Bhatotia</a> in Jan 2018. Since April 2018, I have joined  <a href="http://scontain.com" target="_blank">Scontain</a> startup as a co-founder.
+I'm a co-founder of Scontain UG and a senior research engineer at Huawei Munich Research Center. I obtained a PhD (Dr. -Ing.) from TU Dresden under supervision of <a href="https://tu-dresden.de/ing/informatik/sya/se/die-professur/inhaber-in" target="_blank"> Prof. Dr. Christof Fetzer</a> and <a href="http://homepages.inf.ed.ac.uk/pbhatoti" target="_blank"> Prof. Dr. Pramod Bhatotia</a> in Jan 2018. 
+<!-- a Since April 2018, I have joined  <a href="http://scontain.com" target="_blank">Scontain</a> startup as a co-founder.-->
 Currently, I'm passionate about building secure and privacy-preserving data analytics systems based on open-source frameworks (e.g., Apache Spark, Tensorflow, OpenCV, PyTorch, and MXNet) and Trusted Execution Environment (TEE) technologies (e.g., Intel SGX/TDX, AMD SEV, and ARM TrustZone).
 <br>
 During my Ph.D., I’ve been lucky to have fruitful internship/collaboration with <a href="https://www.bell-labs.com/">Bell Labs</a>. Prior to joining TU Dresden, I received my master degree in computer science from Pohang University of Science and Technology (POSTECH), Korea in 2012 under the supervision of <a href="http://dpnm.postech.ac.kr/~jwkhong/" target="_blank">Prof. Dr. James Won-Ki Hong</a>.</p>
@@ -35,18 +37,21 @@ During my Ph.D., I’ve been lucky to have fruitful internship/collaboration wit
 <em>All publications: </em><a href="https://scholar.google.de/citations?hl=en&user=z1VDRsUAAAAJ"> <img class="t0" width="2%" src="/images/gscholar-icon.png" alt="Google Scholar"></a><br>
 
 ## Selected Publications
+- **Perun: Confidential Multi-stakeholder Machine Learning Framework with Hardware Acceleration Support**, Wojciech Ozga, _Do Le Quoc_, Christof Fetzer, in proceedings of the annual conference on Data and Applications Security and Privacy (<em><a class="tosu">DBSec</a>), Calgary, Canada, 2021 (online).
+
+- **Avocado: A Secure In-Memory Distributed Storage System**, Maurice Bailleu, Dimitra Giantsidi, Vasilis Gavrielatos, _Do Le Quoc_, Vijay Nagarajan, Pramod Bhatotia, in proceedings of the USENIX Annual Technical Conference (<em><a class="tosu">USENIX ATC</a>), Santa Clara, CA, USA, 2021 (online).
 
 - **Enclaves in the Clouds: Legal considerations and broader implications**, Jatinder Singh, Jennifer Cobbe, _Do Le Quoc_, Zahra Tarkhani, in <em><a class="tosu">ACM Queue</a> journal, 2021.
 
 - **secureTF: A Secure TensorFlow Framework**, _Do Le Quoc_, Franz Gregor, Sergei Arnautov,
-Roland Kunkel, Pramod Bhatotia, Christof Fetzer, in proceedings of the 21st International Middleware Conference (<em><a class="tosu">Middleware</a>), Delft, Netherlands, 2020.
+Roland Kunkel, Pramod Bhatotia, Christof Fetzer, in proceedings of the 21st International Middleware Conference (<em><a class="tosu">Middleware</a>), Delft, Netherlands, 2020 (online).
 
-- **TEEMon: A continuous performance monitoring framework for TEEs**, Robert Krahn, Donald Dragoti, Franz Gregor, _Do Le Quoc_, Valerio Schiavoni, Pascal Felber, Clenimar Souza, Andrey Brito, Christof Fetzer, in proceedings of the 21st International Middleware Conference (<em><a class="tosu">Middleware</a>), Delft, Netherlands, 2020.
+- **TEEMon: A continuous performance monitoring framework for TEEs**, Robert Krahn, Donald Dragoti, Franz Gregor, _Do Le Quoc_, Valerio Schiavoni, Pascal Felber, Clenimar Souza, Andrey Brito, Christof Fetzer, in proceedings of the 21st International Middleware Conference (<em><a class="tosu">Middleware</a>), Delft, Netherlands, 2020 (online).
 
-- **A practical approach for updating an integrity-enforced operating system**, Wojciech Ozga, _Do Le Quoc_, Christof Fetzer,in proceedings of the 21st International Middleware Conference (<em><a class="tosu">Middleware</a>), Delft, Netherlands, 2020.
+- **A practical approach for updating an integrity-enforced operating system**, Wojciech Ozga, _Do Le Quoc_, Christof Fetzer,in proceedings of the 21st International Middleware Conference (<em><a class="tosu">Middleware</a>), Delft, Netherlands, 2020 (online).
 
 - **Palaemon: A Managed Trusted Service for Secrets and Configuration Management**, Franz Gregor, Wojciech Ozga, Sébastien Vaucher, Rafael Pires, _Do Le Quoc_, Sergei Arnautov, André Martin, Valerio Schiavoni, Pascal Felber, and Christof Fetzer, inn proceedings of the Annual EEE/IFIP International Conference on Dependable Systems and Networks (<em><a class="tosu">DSN</a>), Valencia, Spain,
-2020.
+2020 (online).
 
 - **SGX-PySpark: Secure Distributed Data Analytics**, _Do Le Quoc_, Franz Gregor, Jatinder Singh, and Christof Fetzer, in the International World Wide Web Conference (<em><a class="tosu">WWW</a>), San Francisco, CA, USA, 2019.
 

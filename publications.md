@@ -8,6 +8,12 @@ permalink: /publications/
 <hr style="height:10pt; visibility:hidden;" />
 ## Conferences/Journals
 
+- **Perun: Confidential Multi-stakeholder Machine Learning Framework with Hardware Acceleration Support**, Wojciech Ozga, _Do Le Quoc_, Christof Fetzer, in proceedings of annual conference on Data and Applications Security and Privacy (<em><a class="tosu">DBSec</a>), Calgary, Canada, 2021 (online).
+
+- **Avocado: A Secure In-Memory Distributed Storage System**, Maurice Bailleu, Dimitra Giantsidi, Vasilis Gavrielatos, _Do Le Quoc_, Vijay Nagarajan, Pramod Bhatotia, in the USENIX Annual Technical Conference (<em><a class="tosu">USENIX ATC</a>), Santa Clara, CA, USA, 2021 (online).
+
+- **TRIGLAV: Remote Attestation of the Virtual Machine's Runtime Integrity in Public Clouds**, Wojciech Ozga, _Do Le Quoc_, Christof Fetzer, in proceedings of IEEE 14th International Conference on Cloud Computing (CLOUD), 2021 (online).
+
 - **Enclaves in the Clouds: Legal considerations and broader implications**, Jatinder Singh, Jennifer Cobbe, _Do Le Quoc_, Zahra Tarkhani, in <em><a class="tosu">ACM Queue</a> journal, 2021.
 
 - **secureTF: A Secure TensorFlow Framework**, _Do Le Quoc_, Franz Gregor, Sergei Arnautov,

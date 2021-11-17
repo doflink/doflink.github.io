@@ -37,15 +37,22 @@ _Traffic Dispersion Graph Based Anomaly Detection_ -->
 
 <hr style="height:8pt; visibility:hidden;" />
 ## Journal reviewing
+- IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Big Data
 - Data Mining and Knowledge Discovery (DAMI)
 
 <hr style="height:8pt; visibility:hidden;" />
 ## Master Thesis Supervision
 
-- **Hira Siddiqui** --- _Credentials as a Service_, 2020 (Online).
+- **Chengpeng Jiang** --- _Secure-TiKV: A Condential distributed transactional key-value database_, 2021 (Online).
+
+- **Yue Wang** --- _SGX-PaddlePaddle:  A Confidential Machine Learning Framework_, 2021 (Online). 
+
+- **Hira Siddiqui** --- _Credentials as a Service_, 2020 (Online). This thesis won (<em><a class="tosu">Women's STEM Award 2021</a>).
 
 - **Mujtaba Idrees** --- _Trusted Computation based Ecosystem for Blockchain and Beyond_, 2020 (Online).
+
+- **yateender khedar** --- _SGX-Vault: A key management system for secure distributed systems using Intel SGX_, 2020 (Online).
 
 - **Prateek Bhatnagar** --- _SPML: A Secure Privacy-preserving Machine Learning Framework using TEEs and Differential Privacy_, 2020 (Online).
 
