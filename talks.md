@@ -22,10 +22,10 @@ _SCONE: Secure Container Technology and Secrets Management_
 _SGX-PySpark: Secure Distributed Data Analytics (Demo)_
  
 - **Invited talk, T-Systems MMS, Dresden, Germany, May 2019** <br>
-_SCONE: Secure Container Technology and Secrets Management_ (<em><a class="tosu">Keynote Speaker</a>)
+_SCONE: Secure Container Technology and Secrets Management_
 
 - **Invited lecture, Japanese OS workshop, Hakodate Hokkaido, Japan, March 2019** <br>
-_SCONE: Secure Container Technology and Secrets Management_
+_SCONE: Secure Container Technology and Secrets Management_ (<em><a class="tosu">Keynote Speaker</a>)
 
 - **Intel Labs, Hillsboro, Oregon, USA, Oct 2018** <br>
 _Secure Privacy-preserving Data Processing in Untrusted Clouds: SCONE Platform and SGX-PySpark_ 

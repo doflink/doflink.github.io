@@ -12,7 +12,7 @@ permalink: /publications/
 
 - **Avocado: A Secure In-Memory Distributed Storage System**, Maurice Bailleu, Dimitra Giantsidi, Vasilis Gavrielatos, _Do Le Quoc_, Vijay Nagarajan, Pramod Bhatotia, in the USENIX Annual Technical Conference (<em><a class="tosu">USENIX ATC</a>), Santa Clara, CA, USA, 2021 (online).
 
-- **TRIGLAV: Remote Attestation of the Virtual Machine's Runtime Integrity in Public Clouds**, Wojciech Ozga, _Do Le Quoc_, Christof Fetzer, in proceedings of IEEE 14th International Conference on Cloud Computing (CLOUD), 2021 (online).
+- **TRIGLAV: Remote Attestation of the Virtual Machine's Runtime Integrity in Public Clouds**, Wojciech Ozga, _Do Le Quoc_, Christof Fetzer, in proceedings of IEEE 14th International Conference on Cloud Computing (<em><a class="tosu">CLOUD</a>), 2021 (online).	
 
 - **Enclaves in the Clouds: Legal considerations and broader implications**, Jatinder Singh, Jennifer Cobbe, _Do Le Quoc_, Zahra Tarkhani, in <em><a class="tosu">ACM Queue</a> journal, 2021.
 

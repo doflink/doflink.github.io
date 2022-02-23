@@ -52,7 +52,7 @@ _Traffic Dispersion Graph Based Anomaly Detection_ -->
 
 - **Mujtaba Idrees** --- _Trusted Computation based Ecosystem for Blockchain and Beyond_, 2020 (Online).
 
-- **yateender khedar** --- _SGX-Vault: A key management system for secure distributed systems using Intel SGX_, 2020 (Online).
+- **Yateender Khedar** --- _SGX-Vault: A key management system for secure distributed systems using Intel SGX_, 2020 (Online).
 
 - **Prateek Bhatnagar** --- _SPML: A Secure Privacy-preserving Machine Learning Framework using TEEs and Differential Privacy_, 2020 (Online).
 
