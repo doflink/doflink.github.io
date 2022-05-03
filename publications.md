@@ -8,6 +8,8 @@ permalink: /publications/
 <hr style="height:10pt; visibility:hidden;" />
 ## Conferences/Journals
 
+- **CHORS: Hardening High-Assurance Security Systems with Trusted Computing**, Wojciech Ozga, Rasha Faqeh, _Do Le Quoc_, Franz Gregor, Silvio Dragone, Christof Fetzer, in proceedings of the 37th ACM/SIGAPP Symposium On Applied Computing (<em><a class="tosu">SAC</a>), Brno, Czech Republic, 2022 (online).
+
 - **Perun: Confidential Multi-stakeholder Machine Learning Framework with Hardware Acceleration Support**, Wojciech Ozga, _Do Le Quoc_, Christof Fetzer, in proceedings of annual conference on Data and Applications Security and Privacy (<em><a class="tosu">DBSec</a>), Calgary, Canada, 2021 (online).
 
 - **Avocado: A Secure In-Memory Distributed Storage System**, Maurice Bailleu, Dimitra Giantsidi, Vasilis Gavrielatos, _Do Le Quoc_, Vijay Nagarajan, Pramod Bhatotia, in the USENIX Annual Technical Conference (<em><a class="tosu">USENIX ATC</a>), Santa Clara, CA, USA, 2021 (online).
