@@ -5,12 +5,12 @@ layout: default
 # Le Quoc Do <a href="/images/me.jpg" target="_blank"> <img src="images/me.jpg" alt="Le Quoc Do" style="width:160px;" align="right"></a>
 Senior research engineer at Huawei Munich Research Center <br>
 <!-- Co-founder of <a href="https://scontain.com/" target="_blank">Scontain</a> GmbH <br> -->
-<!-- Munich, Germany <br> -->
+Munich, Germany <br>
 
 
 <!-- <em>Curriculum Vitae: </em><a href="/files/CV_new.pdf" target="_blank">PDF</a>  <small>(September, 2017)</small> <br> -->
 <em>Git repository: </em><a href="https://github.com/doflink"> <img class="t0" width="2%" src="/images/github-icon.png" alt="github"></a><br>
-<em>Email: </em><a href="mailto:do@scontain.com">do@scontain.com</a> <br>
+<!-- <em>Email: </em><a href="mailto:do@scontain.com">do@scontain.com</a> <br> -->
 <!-- <em>Office: </em>Systems Engineering Chair, APB 3074<br> -->
 
 <!-- <hr width="600px"> -->
@@ -26,7 +26,7 @@ Senior research engineer at Huawei Munich Research Center <br>
 <p align="justify">
 <!-- a class="tosu">I have successfully defended my PhD thesis!!!</a> -->
 
-I'm a senior research engineer at Huawei Munich Research Center. Before joining Huawei, I'm a co-founder of Scontain GmbH. I obtained a PhD (Dr. -Ing.) from TU Dresden under supervision of <a href="https://tu-dresden.de/ing/informatik/sya/se/die-professur/inhaber-in" target="_blank"> Prof. Dr. Christof Fetzer</a> and <a href="http://homepages.inf.ed.ac.uk/pbhatoti" target="_blank"> Prof. Dr. Pramod Bhatotia</a> in Jan 2018. 
+I'm a senior research engineer and taking the lead regarding confidential computing research at Huawei Munich Research Center. Before joining Huawei, I was a co-founder of Scontain GmbH. I obtained a PhD (Dr. -Ing.) from TU Dresden under supervision of <a href="https://tu-dresden.de/ing/informatik/sya/se/die-professur/inhaber-in" target="_blank"> Prof. Dr. Christof Fetzer</a> and <a href="http://homepages.inf.ed.ac.uk/pbhatoti" target="_blank"> Prof. Dr. Pramod Bhatotia</a> in Jan 2018. 
 <!-- a Since April 2018, I have joined  <a href="http://scontain.com" target="_blank">Scontain</a> startup as a co-founder.-->
 Currently, I'm passionate about building secure and privacy-preserving data analytics systems based on open-source frameworks (e.g., Apache Spark, Tensorflow, OpenCV, PyTorch, and MXNet) and Trusted Execution Environment (TEE) technologies (e.g., Intel SGX/TDX, AMD SEV, and ARM TrustZone).
 <br>
