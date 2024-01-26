@@ -4,8 +4,8 @@ layout: default
 
 # Le Quoc Do <a href="/images/me.jpg" target="_blank"> <img src="images/me.jpg" alt="Le Quoc Do" style="width:160px;" align="right"></a>
 Senior research engineer at Huawei Munich Research Center <br>
-Co-founder of <a href="https://scontain.com/" target="_blank">Scontain</a> GmbH <br>
-Munich, Germany <br>
+<!-- Co-founder of <a href="https://scontain.com/" target="_blank">Scontain</a> GmbH <br> -->
+<!-- Munich, Germany <br> -->
 
 
 <!-- <em>Curriculum Vitae: </em><a href="/files/CV_new.pdf" target="_blank">PDF</a>  <small>(September, 2017)</small> <br> -->
@@ -26,7 +26,7 @@ Munich, Germany <br>
 <p align="justify">
 <!-- a class="tosu">I have successfully defended my PhD thesis!!!</a> -->
 
-I'm a co-founder of Scontain GmbH and a senior research engineer at Huawei Munich Research Center. I obtained a PhD (Dr. -Ing.) from TU Dresden under supervision of <a href="https://tu-dresden.de/ing/informatik/sya/se/die-professur/inhaber-in" target="_blank"> Prof. Dr. Christof Fetzer</a> and <a href="http://homepages.inf.ed.ac.uk/pbhatoti" target="_blank"> Prof. Dr. Pramod Bhatotia</a> in Jan 2018. 
+I'm a senior research engineer at Huawei Munich Research Center. Before joining Huawei, I'm a co-founder of Scontain GmbH. I obtained a PhD (Dr. -Ing.) from TU Dresden under supervision of <a href="https://tu-dresden.de/ing/informatik/sya/se/die-professur/inhaber-in" target="_blank"> Prof. Dr. Christof Fetzer</a> and <a href="http://homepages.inf.ed.ac.uk/pbhatoti" target="_blank"> Prof. Dr. Pramod Bhatotia</a> in Jan 2018. 
 <!-- a Since April 2018, I have joined  <a href="http://scontain.com" target="_blank">Scontain</a> startup as a co-founder.-->
 Currently, I'm passionate about building secure and privacy-preserving data analytics systems based on open-source frameworks (e.g., Apache Spark, Tensorflow, OpenCV, PyTorch, and MXNet) and Trusted Execution Environment (TEE) technologies (e.g., Intel SGX/TDX, AMD SEV, and ARM TrustZone).
 <br>
@@ -37,6 +37,8 @@ During my Ph.D., I’ve been lucky to have fruitful internship/collaboration wit
 <em>All publications: </em><a href="https://scholar.google.de/citations?hl=en&user=z1VDRsUAAAAJ"> <img class="t0" width="2%" src="/images/gscholar-icon.png" alt="Google Scholar"></a><br>
 
 ## Selected Publications
+- **SinClave: Hardware-assisted Singletons for TEEs**, Franz Gregor, Robert Krahn,  _Do Le Quoc_, Christof Fetzer, in proceedings of the 24th International Middleware Conference (<em><a class="tosu">Middleware</a>), Bologna, Italy, 2023.
+
 - **CHORS: Hardening High-Assurance Security Systems with Trusted Computing**, Wojciech Ozga, Rasha Faqeh, _Do Le Quoc_, Franz Gregor, Silvio Dragone, Christof Fetzer, in proceedings of the 37th ACM/SIGAPP Symposium On Applied Computing (<em><a class="tosu">SAC</a>), Brno, Czech Republic, 2022 (online).
 
 - **Perun: Confidential Multi-stakeholder Machine Learning Framework with Hardware Acceleration Support**, Wojciech Ozga, _Do Le Quoc_, Christof Fetzer, in proceedings of the annual conference on Data and Applications Security and Privacy (<em><a class="tosu">DBSec</a>), Calgary, Canada, 2021 (online).
