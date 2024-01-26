@@ -30,6 +30,11 @@ _Traffic Dispersion Graph Based Anomaly Detection_ -->
 
 -----
 <hr style="height:8pt; visibility:hidden;" />
+## Program committee member
+- 2024: ACM/IFIP International Middleware Conference (Middleware)
+- 2023: ACM/IFIP International Middleware Conference (Middleware) 
+- 2021: 17th European Dependable Computing Conference (EDCC) - Student Forum
+
 ## Conference reviewing
 - IEEE International Conference on Distributed Computing Systems (**ICDCS**) 
 - International European Conference on Parallel and Distributed Computing (**Euro-Par**)
