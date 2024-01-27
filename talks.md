@@ -5,6 +5,11 @@ permalink: /talks/
 ---
 -----
 <hr style="height:10pt; visibility:hidden;" />
+- **Confidential Computing Summit, San Francisco, USA, June 2023** <br>
+_An Introduction to Huawei Qingtian Enclaves_
+
+- **Workshop on Systems Challenges in Reliable and Secure Federated Learning, Co-located with ACM SOSP 2021** <br>
+_Multi-stakeholder state of Machine Learning_ (<em><a class="tosu">Keynote Speaker</a>)
 
 - **Workshop on Systems Challenges in Reliable and Secure Federated Learning, Co-located with ACM SOSP 2021** <br>
 _Multi-stakeholder state of Machine Learning_ (<em><a class="tosu">Keynote Speaker</a>)
