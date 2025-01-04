@@ -28,7 +28,7 @@ _SCONE: Secure Container Technology and Secrets Management_
 
 - **ACM WWW'19, The Web Conference, San Francisco, USA, May 2019** <br>
 _SGX-PySpark: Secure Distributed Data Analytics (Demo)_
- 
+
 - **Invited talk, T-Systems MMS, Dresden, Germany, May 2019** <br>
 _SCONE: Secure Container Technology and Secrets Management_
 

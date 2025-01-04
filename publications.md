@@ -8,6 +8,10 @@ permalink: /publications/
 <hr style="height:10pt; visibility:hidden;" />
 ## Conferences/Journals
 
+- **Accelerating Transfer Learning with Near-Data Computation on Cloud Object Stores**, Diana Petrescu, Arsany Guirguis, _Do Le Quoc_, Javier Picorel, Rachid Guerraoui, Florin Dinu, in proceedings of the 15th ACM Symposium on Cloud Computing(<em><a class="tosu">SoCC</a>), Redmond, WA, USA, 2024.
+
+- **SinClave: Hardware-assisted Singletons for TEEs**, Franz Gregor, Robert Krahn,  _Do Le Quoc_, Christof Fetzer, in proceedings of the 24th International Middleware Conference (<em><a class="tosu">Middleware</a>), Bologna, Italy, 2023.
+
 - **CHORS: Hardening High-Assurance Security Systems with Trusted Computing**, Wojciech Ozga, Rasha Faqeh, _Do Le Quoc_, Franz Gregor, Silvio Dragone, Christof Fetzer, in proceedings of the 37th ACM/SIGAPP Symposium On Applied Computing (<em><a class="tosu">SAC</a>), Brno, Czech Republic, 2022 (online).
 
 - **Perun: Confidential Multi-stakeholder Machine Learning Framework with Hardware Acceleration Support**, Wojciech Ozga, _Do Le Quoc_, Christof Fetzer, in proceedings of annual conference on Data and Applications Security and Privacy (<em><a class="tosu">DBSec</a>), Calgary, Canada, 2021 (online).

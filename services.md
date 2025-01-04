@@ -30,7 +30,11 @@ _Traffic Dispersion Graph Based Anomaly Detection_ -->
 
 -----
 <hr style="height:8pt; visibility:hidden;" />
+## Conference Co-Chair
+- 2024: the Industry Co-Chair, ACM/IFIP International Middleware Conference (Middleware)
+
 ## Program committee member
+- 2025: ACM/IFIP International Middleware Conference (Middleware)
 - 2024: ACM/IFIP International Middleware Conference (Middleware)
 - 2023: ACM/IFIP International Middleware Conference (Middleware) 
 - 2021: 17th European Dependable Computing Conference (EDCC) - Student Forum
@@ -49,7 +53,7 @@ _Traffic Dispersion Graph Based Anomaly Detection_ -->
 <hr style="height:8pt; visibility:hidden;" />
 ## Master Thesis Supervision
 
-- **Chengpeng Jiang** --- _Secure-TiKV: A Condential distributed transactional key-value database_, 2021 (Online).
+- **Chengpeng Jiang** --- _Secure-TiKV: A Condential distributed transactional key-value database_, 2021 (Online).
 
 - **Yue Wang** --- _SGX-PaddlePaddle:  A Confidential Machine Learning Framework_, 2021 (Online). 
 
@@ -75,6 +79,9 @@ _Traffic Dispersion Graph Based Anomaly Detection_ -->
 
 <hr style="height:8pt; visibility:hidden;" />
 ## Bachelor Thesis Supervision
+
+- **Jalil David Salamé Messina**  --- _Towards running legacy applications inside AWS Nitro Type Enclave_, 2024.
+
 - **Mulham Raee** --- _A Secure Mobile Application to decide Policy Changes_, 2019.
 
 -----
