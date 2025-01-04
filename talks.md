@@ -14,9 +14,6 @@ _An Introduction to Huawei Qingtian Enclaves_
 - **Workshop on Systems Challenges in Reliable and Secure Federated Learning, Co-located with ACM SOSP 2021** <br>
 _Multi-stakeholder state of Machine Learning_ (<em><a class="tosu">Keynote Speaker</a>)
 
-- **Workshop on Systems Challenges in Reliable and Secure Federated Learning, Co-located with ACM SOSP 2021** <br>
-_Multi-stakeholder state of Machine Learning_ (<em><a class="tosu">Keynote Speaker</a>)
-
 - **ACM Middleware'20, Delft, Netherlands, (Virtual conference), Dec 2020** <br> 
 _secureTF: A Secure TensorFlow Framework_
 

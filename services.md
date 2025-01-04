@@ -53,7 +53,7 @@ _Traffic Dispersion Graph Based Anomaly Detection_ -->
 <hr style="height:8pt; visibility:hidden;" />
 ## Master Thesis Supervision
 
-- **Chengpeng Jiang** --- _Secure-TiKV: A Condential distributed transactional key-value database_, 2021 (Online).
+- **Chengpeng Jiang** --- _Secure-TiKV: A Confidential distributed transactional key-value database_, 2021 (Online).
 
 - **Yue Wang** --- _SGX-PaddlePaddle:  A Confidential Machine Learning Framework_, 2021 (Online). 
 
