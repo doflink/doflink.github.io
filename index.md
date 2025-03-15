@@ -61,7 +61,7 @@ Roland Kunkel, Pramod Bhatotia, Christof Fetzer, in proceedings of the 21st Inte
 - **Palaemon: A Managed Trusted Service for Secrets and Configuration Management**, Franz Gregor, Wojciech Ozga, Sébastien Vaucher, Rafael Pires, _Do Le Quoc_, Sergei Arnautov, André Martin, Valerio Schiavoni, Pascal Felber, and Christof Fetzer, inn proceedings of the Annual EEE/IFIP International Conference on Dependable Systems and Networks (<em><a class="tosu">DSN</a>), Valencia, Spain,
 2020 (online).
 
-- **SGX-PySpark: Secure Distributed Data Analytics**, _Do Le Quoc_, Franz Gregor, Jatinder Singh, and Christof Fetzer, in the International World Wide Web Conference (<em><a class="tosu">WWW</a>), San Francisco, CA, USA, 2019. (This work now is <em><a class="tosu">running in production</a><a href="https://docs.microsoft.com/en-us/azure/architecture/example-scenario/confidential/data-analytics-containers-spark-kubernetes-azure-sql" target="_blank">on Microsoft Azure</a>).
+- **SGX-PySpark: Secure Distributed Data Analytics**, _Do Le Quoc_, Franz Gregor, Jatinder Singh, and Christof Fetzer, in the International World Wide Web Conference (<em><a class="tosu">WWW</a>), San Francisco, CA, USA, 2019. (<a href="https://docs.microsoft.com/en-us/azure/architecture/example-scenario/confidential/data-analytics-containers-spark-kubernetes-azure-sql" target="_blank">This work now is running in production on Microsoft Azure</a>).
 
 - **ApproxJoin: Approximate Distributed Joins**, _Do Le Quoc_, Istemi Ekin Akkus, Pramod Bhatotia, Spyros Blanas, Ruichuan Chen, Christof Fetzer, and Thorsten Strufe, in the ACM Symposium on Cloud Computing (<em><a class="tosu">SoCC</a>), Carlsbad, CA, USA, 2018.
 

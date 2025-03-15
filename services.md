@@ -34,8 +34,8 @@ _Traffic Dispersion Graph Based Anomaly Detection_ -->
 - 2024: the Industry Co-Chair, ACM/IFIP International Middleware Conference (Middleware)
 
 ## Program committee member
-- 2025: ACM/IFIP International Middleware Conference (Middleware)
-- 2024: ACM/IFIP International Middleware Conference (Middleware)
+- 2025: <a href="https://middleware-conf.github.io/2025/program-committee/">ACM/IFIP Middleware</a>, <a href="https://www.systor.org/2025/program-committee/">ACM/USENIX SYSTOR</a>, <a href="https://systex-workshop.github.io/2025/committee.html">SysTEX</a>.
+- 2024: <a href="https://middleware-conf.github.io/2024/program-committee/">ACM/IFIP International Middleware Conference (Middleware)</a>.
 - 2023: ACM/IFIP International Middleware Conference (Middleware) 
 - 2021: 17th European Dependable Computing Conference (EDCC) - Student Forum
 
