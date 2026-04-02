@@ -6,6 +6,13 @@ permalink: /publications/
 
 -----
 <hr style="height:10pt; visibility:hidden;" />
+## Workshops
+
+- **Breaking Isolation: Last-level Cache Side-Channel Attacks on AWS Nitro Enclaves**, Monder Rammouz, _Do Le Quoc_, in proceedings of the 9th Workshop on System Software for Trusted Execution (<em><a class="tosu">SysTEX</a>), Edinburgh, Scotland, UK, 2026.
+
+- **AI Agents Need Both Hardware-Backed Security and Application-Level Guardrails**, Shichen Hu, _Do Le Quoc_, in proceedings of the 9th Workshop on System Software for Trusted Execution (<em><a class="tosu">SysTEX</a>), Edinburgh, Scotland, UK, 2026.
+
+<hr style="height:8pt; visibility:hidden;" />
 ## Conferences/Journals
 
 - **Accelerating Transfer Learning with Near-Data Computation on Cloud Object Stores**, Diana Petrescu, Arsany Guirguis, _Do Le Quoc_, Javier Picorel, Rachid Guerraoui, Florin Dinu, in proceedings of the 15th ACM Symposium on Cloud Computing(<em><a class="tosu">SoCC</a>), Redmond, WA, USA, 2024.

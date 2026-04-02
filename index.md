@@ -43,6 +43,10 @@ My research interests encompass a wide range of topics in computer systems, such
 <em>All publications: </em><a href="https://scholar.google.de/citations?hl=en&user=z1VDRsUAAAAJ"> <img class="t0" width="2%" src="/images/gscholar-icon.png" alt="Google Scholar"></a><br>
 
 ## Selected Publications
+- **Breaking Isolation: Last-level Cache Side-Channel Attacks on AWS Nitro Enclaves**, Monder Rammouz, _Do Le Quoc_, in proceedings of the 9th Workshop on System Software for Trusted Execution (<em><a class="tosu">SysTEX</a>), Edinburgh, Scotland, UK, 2026.
+
+- **AI Agents Need Both Hardware-Backed Security and Application-Level Guardrails**, Shichen Hu, _Do Le Quoc_, in proceedings of the 9th Workshop on System Software for Trusted Execution (<em><a class="tosu">SysTEX</a>), Edinburgh, Scotland, UK, 2026.
+
 - **Accelerating Transfer Learning with Near-Data Computation on Cloud Object Stores**, Diana Petrescu, Arsany Guirguis, _Do Le Quoc_, Javier Picorel, Rachid Guerraoui, Florin Dinu, in proceedings of the 15th ACM Symposium on Cloud Computing(<em><a class="tosu">SoCC</a>), Redmond, WA, USA, 2024.
 
 - **SinClave: Hardware-assisted Singletons for TEEs**, Franz Gregor, Robert Krahn,  _Do Le Quoc_, Christof Fetzer, in proceedings of the 24th International Middleware Conference (<em><a class="tosu">Middleware</a>), Bologna, Italy, 2023.
