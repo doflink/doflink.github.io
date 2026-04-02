@@ -9,6 +9,7 @@ Munich, Germany <br>
 
 
 <!-- <em>Curriculum Vitae: </em><a href="/files/CV_new.pdf" target="_blank">PDF</a>  <small>(September, 2017)</small> <br> -->
+<em>Nationality: </em>🇻🇳 🇩🇪 <br>
 <em>Git repository: </em><a href="https://github.com/doflink"> <img class="t0" width="2%" src="/images/github-icon.png" alt="github"></a><br>
 <!--<em>Email: </em><a href="mailto:do@scontain.com">do@scontain.com</a> <br> -->
 <em>Email: </em><a href="mailto:lequocdo@gmail.com">lequocdo@gmail.com</a> <br> 
