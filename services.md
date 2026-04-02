@@ -30,18 +30,6 @@ _Traffic Dispersion Graph Based Anomaly Detection_ -->
 
 -----
 <hr style="height:8pt; visibility:hidden;" />
-## Current Students
-
-**PhD students:**
-- <a href="https://chenjiyang.dev/" target="_blank">Jiyang Chen</a> (TU Munich)
-- Barry Shichen Hu (TU Munich)
-- Robert Schambach (TU Dresden)
-
-**Master students:**
-- Monder Rammouz (TU Munich)
-- Xuan Zhang (TU Munich)
-
-<hr style="height:8pt; visibility:hidden;" />
 ## Conference Co-Chair
 - 2024: the Industry Co-Chair, ACM/IFIP International Middleware Conference (Middleware)
 
@@ -63,6 +51,18 @@ _Traffic Dispersion Graph Based Anomaly Detection_ -->
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Big Data
 - Data Mining and Knowledge Discovery (DAMI)
+
+<hr style="height:8pt; visibility:hidden;" />
+## Current Students
+
+**PhD students:**
+- <a href="https://chenjiyang.dev/" target="_blank">Jiyang Chen</a> (TU Munich)
+- Barry Shichen Hu (TU Munich)
+- Robert Schambach (TU Dresden)
+
+**Master students:**
+- Monder Rammouz (TU Munich)
+- Xuan Zhang (TU Munich)
 
 <hr style="height:8pt; visibility:hidden;" />
 ## Master Thesis Supervision
