@@ -30,13 +30,27 @@ _Traffic Dispersion Graph Based Anomaly Detection_ -->
 
 -----
 <hr style="height:8pt; visibility:hidden;" />
+## Current Students
+
+**PhD students:**
+- <a href="https://chenjiyang.dev/" target="_blank">Jiyang Chen</a> (TU Munich)
+- Barry Shichen Hu (TU Munich)
+- Robert Schambach (TU Dresden)
+
+**Master students:**
+- Monder Rammouz (TU Munich)
+- Xuan Zhang (TU Munich)
+
+<hr style="height:8pt; visibility:hidden;" />
 ## Conference Co-Chair
 - 2024: the Industry Co-Chair, ACM/IFIP International Middleware Conference (Middleware)
 
 ## Program committee member
-- 2025: <a href="https://middleware-conf.github.io/2025/program-committee/">ACM/IFIP Middleware</a>, <a href="https://www.systor.org/2025/program-committee/">ACM/USENIX SYSTOR</a>, <a href="https://systex-workshop.github.io/2025/committee.html">SysTEX</a>.
+- 2027: <a href="https://2027.eurosys.org/pc.html">EuroSys</a>.
+- 2026: <a href="https://middleware-conf.github.io/2026/program-committee/">Middleware</a>, <a href="https://systex-workshop.github.io/2026/committee.html">SysTEX</a>.
+- 2025: <a href="https://middleware-conf.github.io/2025/program-committee/">ACM/IFIP Middleware</a>, <a href="https://www.systor.org/2025/program-committee/">ACM/USENIX SYSTOR</a>, <a href="https://systex-workshop.github.io/2025/committee.html">SysTEX</a>, <a href="https://acmsocc.org/2025/program-committee.html">SoCC</a>.
 - 2024: <a href="https://middleware-conf.github.io/2024/program-committee/">ACM/IFIP International Middleware Conference (Middleware)</a>.
-- 2023: ACM/IFIP International Middleware Conference (Middleware) 
+- 2023: ACM/IFIP International Middleware Conference (Middleware)
 - 2021: 17th European Dependable Computing Conference (EDCC) - Student Forum
 
 ## Conference reviewing
