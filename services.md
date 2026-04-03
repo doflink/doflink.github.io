@@ -55,6 +55,8 @@ _Traffic Dispersion Graph Based Anomaly Detection_ -->
 <hr style="height:8pt; visibility:hidden;" />
 ## Current Students
 
+Currently, I'm happy to work with the following students:
+
 **PhD students:**
 - <a href="https://chenjiyang.dev/" target="_blank">Jiyang Chen</a> (TU Munich)
 - Barry Shichen Hu (TU Munich)
