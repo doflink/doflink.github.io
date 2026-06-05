@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Le Quoc Do <a href="/images/me.jpg" target="_blank"> <img src="images/me.jpg" alt="Le Quoc Do" style="width:160px;" align="right"></a>
-Principal research engineer at Huawei Munich Research Center <br>
+Confidential Computing Expert - STACKIT Cloud - Schwarz Digits <br>
 <!-- Co-founder of <a href="https://scontain.com/" target="_blank">Scontain</a> GmbH <br> -->
 Munich, Germany <br>
 
@@ -28,7 +28,7 @@ Munich, Germany <br>
 <p align="justify">
 <!-- a class="tosu">I have successfully defended my PhD thesis!!!</a> -->
 
-I'm a principal research engineer at Huawei Munich Research Center. Before joining Huawei, I was a co-founder of <a href="https://scontain.com/" target="_blank">Scontain</a> GmbH <br>  which builds confidential computing services for customers. 
+I recently moved to <a href="https://stackit.com/en" target="_blank">Schwarz Digits - STACKIT</a> to build confidential computing services in STACKIT Cloud. From May 2021 to May 2025, I was a principal research engineer leading a small security team under the Cloud Virtualization Lab at Huawei Munich Research Center. Before joining Huawei, I was a co-founder of <a href="https://scontain.com/" target="_blank">Scontain</a> GmbH which builds confidential computing services for customers. 
 <br>
 <br>
 I obtained a PhD (Dr. -Ing.) from TU Dresden under supervision of <a href="https://tu-dresden.de/ing/informatik/sya/se/die-professur/inhaber-in" target="_blank"> Prof. Dr. Christof Fetzer</a> and <a href="http://homepages.inf.ed.ac.uk/pbhatoti" target="_blank"> Prof. Dr. Pramod Bhatotia</a> in Jan 2018. 
@@ -61,9 +61,9 @@ Roland Kunkel, Pramod Bhatotia, Christof Fetzer, in proceedings of the 21st Inte
 
 - **TEEMon: A continuous performance monitoring framework for TEEs**, Robert Krahn, Donald Dragoti, Franz Gregor, _Do Le Quoc_, Valerio Schiavoni, Pascal Felber, Clenimar Souza, Andrey Brito, Christof Fetzer, in proceedings of the 21st International Middleware Conference (<em><a class="tosu">Middleware</a>), Delft, Netherlands, 2020 (online).
 
-- **A practical approach for updating an integrity-enforced operating system**, Wojciech Ozga, _Do Le Quoc_, Christof Fetzer,in proceedings of the 21st International Middleware Conference (<em><a class="tosu">Middleware</a>), Delft, Netherlands, 2020 (online).
+- **A practical approach for updating an integrity-enforced operating system**, Wojciech Ozga, _Do Le Quoc_, Christof Fetzer, in proceedings of the 21st International Middleware Conference (<em><a class="tosu">Middleware</a>), Delft, Netherlands, 2020 (online).
 
-- **Palaemon: A Managed Trusted Service for Secrets and Configuration Management**, Franz Gregor, Wojciech Ozga, Sébastien Vaucher, Rafael Pires, _Do Le Quoc_, Sergei Arnautov, André Martin, Valerio Schiavoni, Pascal Felber, and Christof Fetzer, inn proceedings of the Annual EEE/IFIP International Conference on Dependable Systems and Networks (<em><a class="tosu">DSN</a>), Valencia, Spain,
+- **Palaemon: A Managed Trusted Service for Secrets and Configuration Management**, Franz Gregor, Wojciech Ozga, Sébastien Vaucher, Rafael Pires, _Do Le Quoc_, Sergei Arnautov, André Martin, Valerio Schiavoni, Pascal Felber, and Christof Fetzer, in proceedings of the Annual IEEE/IFIP International Conference on Dependable Systems and Networks (<em><a class="tosu">DSN</a>), Valencia, Spain,
 2020 (online).
 
 - **SGX-PySpark: Secure Distributed Data Analytics**, _Do Le Quoc_, Franz Gregor, Jatinder Singh, and Christof Fetzer, in the International World Wide Web Conference (<em><a class="tosu">WWW</a>), San Francisco, CA, USA, 2019. (<a href="https://docs.microsoft.com/en-us/azure/architecture/example-scenario/confidential/data-analytics-containers-spark-kubernetes-azure-sql" target="_blank">This work now is running in production on Microsoft Azure</a>).
@@ -77,7 +77,7 @@ Roland Kunkel, Pramod Bhatotia, Christof Fetzer, in proceedings of the 21st Inte
 
 - **PrivApprox: Privacy-Preserving Stream Analytics**, _Do Le Quoc_, Martin Beck,  Pramod Bhatotia,  Ruichuan Chen, Christof Fetzer, and Thorsten Strufe, in the USENIX Annual Technical Conference (<em><a class="tosu">USENIX ATC</a>), Santa Clara, CA, USA, 2017.
 
-- **IncApprox: A Data Analytics System for Incremental Approximate Computing**, Dhanya R Krishnan, _Do Le Quoc_, Pramod Bhatotia, Christof Fetzer, and Rodrigo Rodrigue, in the 25th International World Wide Web Conference (<em><a class="tosu">WWW</a>), Montreal, Canada, 2016.
+- **IncApprox: A Data Analytics System for Incremental Approximate Computing**, Dhanya R Krishnan, _Do Le Quoc_, Pramod Bhatotia, Christof Fetzer, and Rodrigo Rodrigues, in the 25th International World Wide Web Conference (<em><a class="tosu">WWW</a>), Montreal, Canada, 2016.
 
 
 
